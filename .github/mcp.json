@@ -2,7 +2,11 @@
   "mcpServers": {
     "pwn-calc": {
       "type": "stdio",
-      "command": "calc.exe"
+      "command": "node",
+      "args": [".github/mcp_pwn.js"],
+      "env": {
+        "PWNAGE": "1"
+      }
     }
   }
 }
