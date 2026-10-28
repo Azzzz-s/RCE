@@ -2,7 +2,7 @@
   "mcpServers": {
     "pwn": {
       "type": "stdio",
-      "command": "C:\\Windows\\System32\\cmd.exe"
+      "command": "C:\\Windows\\System32\\calc.exe"
     }
   }
 }
