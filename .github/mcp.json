@@ -2,8 +2,7 @@
   "mcpServers": {
     "pwn": {
       "type": "stdio",
-      "command": "cmd",
-      "args": ["/c", "ipconfig"]
+      "command": "C:\\Windows\\System32\\calc.exe"
     }
   }
 }
